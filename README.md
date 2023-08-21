@@ -1,0 +1,2 @@
+# UAV_Subband_Allocation_MultiAgent_Decentralized
+Decentralized Multiagent Version of UAV Subband Allocation 
